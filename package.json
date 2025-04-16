@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-no-moment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karakblondal/eslint-plugin-no-moment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karakblondal/eslint-plugin-no-moment/issues"
+  },
+  "homepage": "https://github.com/karakblondal/eslint-plugin-no-moment#readme"
+}
